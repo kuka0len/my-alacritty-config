@@ -1,8 +1,5 @@
-# alacritty settings
+# My Alacritty config file
 
-Settings for Alacritty, a GPU-accelerated terminal emulator
+Forked from: https://github.com/jwilm/alacritty
 
-https://github.com/jwilm/alacritty
-
-To install, clone the repository to `~/.config/alacritty`.
-
+![](https://i.imgur.com/ulDDPtf.png)
